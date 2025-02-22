@@ -17,8 +17,8 @@
 <h2>Установите необходимые инструменты:</h2>
 <p>
 <br>Убедитесь, что у вас установлен Node.js (версия 14 или выше) и npm (версия 6 или выше).
-<br>Клонируйте репозиторий:git clone <b>https://github.com/your-repo/apteka-platform.git</b>
-<br>cd apteka-platform
+<br>Клонируйте репозиторий:git clone <b>https://github.com/vadim123146/April</b>
+<br>cd April
 <br>Установите зависимости:<b>npm install</b>
 <br>Запустите сервер разработки:<b>npm run dev</b>
 <hr>
