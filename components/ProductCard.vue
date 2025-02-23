@@ -25,7 +25,7 @@ defineProps<{ product: Product }>();
 }
 
 .product-image {
-  max-width: 100%;
+  max-width: 14%;
   height: auto;
   margin-bottom: 0.5rem;
 }
