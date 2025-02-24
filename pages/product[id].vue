@@ -1,5 +1,6 @@
 <template>
   <div v-if="product">
+  {{product}}
     <h2>{{ product.title }}</h2>
     <p>{{ product.description }}</p>
     <p>Цвет: {{ product.color }}</p>
