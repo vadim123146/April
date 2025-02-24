@@ -68,7 +68,7 @@ const closeModal = () => {
 }
 
 .modal-image {
-  max-width: 100%;
-  height: auto;
+  max-width: 34%;
+  height: 34%;
 }
 </style>
